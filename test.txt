@@ -1,6 +1,4 @@
-<<<<<<< HEAD
+
 ubuntu an opensource OS
-=======
-ubuntu is An opensource OS
->>>>>>> ooxx
+
 master
