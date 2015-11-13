@@ -1,1 +1,1 @@
-ubuntu is an opensource os
+ubuntu An opensource OS
