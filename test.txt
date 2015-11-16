@@ -1,4 +1,3 @@
 
-ubuntu an opensource OS
 
 master
